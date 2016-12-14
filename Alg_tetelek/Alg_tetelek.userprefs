@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{CD5CC86F-86CA-4F80-86DE-02D14E1921A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alg_tetelek/Program.cs">
+    <Files>
+      <File FileName="Alg_tetelek/Program.cs" Line="13" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Alg__tetelek PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

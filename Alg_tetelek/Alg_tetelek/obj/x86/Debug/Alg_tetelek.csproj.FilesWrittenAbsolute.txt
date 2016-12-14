@@ -1,0 +1,5 @@
+/home/viktor/Projects/Alg_tetelek/Alg_tetelek/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/viktor/Projects/Alg_tetelek/Alg_tetelek/bin/Debug/Alg_tetelek.exe.mdb
+/home/viktor/Projects/Alg_tetelek/Alg_tetelek/bin/Debug/Alg_tetelek.exe
+/home/viktor/Projects/Alg_tetelek/Alg_tetelek/obj/x86/Debug/Alg_tetelek.exe
+/home/viktor/Projects/Alg_tetelek/Alg_tetelek/obj/x86/Debug/Alg_tetelek.exe.mdb
