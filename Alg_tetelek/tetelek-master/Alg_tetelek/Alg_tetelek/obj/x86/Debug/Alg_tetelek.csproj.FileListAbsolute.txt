@@ -1,0 +1,5 @@
+C:\Users\Diak\Desktop\tetelek-master\Alg_tetelek\Alg_tetelek\obj\x86\Debug\Alg_tetelek.exe
+C:\Users\Diak\Desktop\tetelek-master\Alg_tetelek\Alg_tetelek\obj\x86\Debug\Alg_tetelek.csprojResolveAssemblyReference.cache
+C:\Users\Diak\Desktop\tetelek-master\Alg_tetelek\Alg_tetelek\bin\Debug\Alg_tetelek.exe
+C:\Users\Diak\Desktop\tetelek-master\Alg_tetelek\Alg_tetelek\bin\Debug\Alg_tetelek.pdb
+C:\Users\Diak\Desktop\tetelek-master\Alg_tetelek\Alg_tetelek\obj\x86\Debug\Alg_tetelek.pdb
